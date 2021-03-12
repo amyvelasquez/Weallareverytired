@@ -6,7 +6,7 @@ public class GIT {
 		
 		System.out.println("This is GIT");
 		
-		System.out.println("We're learning GIT");
+		System.out.println("We are the GIT");
 		
 		
 	}
